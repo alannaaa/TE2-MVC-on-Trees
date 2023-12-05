@@ -1,0 +1,9 @@
+Size Type: S, Algorithm: Bnb
+Time: 0.11450505256652832, Memory: 66632 bytes
+
+Size Type: M, Algorithm: Bnb
+Time: 4.251274108886719, Memory: 79872 bytes
+
+Size Type: L, Algorithm: Bnb
+Time: 6662.333945274353, Memory: 127000 bytes
+
